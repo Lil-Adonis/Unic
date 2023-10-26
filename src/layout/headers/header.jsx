@@ -59,7 +59,10 @@ const Header = () => {
       </header>
 
       {/* <!-- mobile-menu-area --> */}
-      <MobileMenu logo={"logo.png"} />
+      <MobileMenu/>
+     
+                    
+                 
       {/* <!-- mobile-menu-area-end --> */}
 
       {/* off canvas start */}
