@@ -29,11 +29,7 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
       <div className="tp-offcanvas-area">
         <div className={`tpoffcanvas ${isOpen ? 'opened' : ''}`}>
           <div className="tpoffcanvas__logo">
-            <Link href="/">
-              <a>
-                <img src="/assets/img/logo/logo.png" alt="" />
-              </a>
-            </Link>
+          
           </div>
           <div className="tpoffcanvas__close-btn" onClick={() => setIsOpen(false)}>
             <button className="close-btn"><i className="fal fa-times-hexagon"></i></button>
@@ -62,10 +58,10 @@ const Sidebar = ({ isOpen, setIsOpen }) => {
             <span>Contact us</span>
             <ul>
               <li>
-                <i className="fas fa-star"></i> <a href="https://goo.gl/maps/abHegV4AoiJA6Syd8" rel="noreferrer" target="_blank">Melbone st, Australia, Ny 12099</a>
+                <i className="fas fa-star"></i> <a href="https://goo.gl/maps/abHegV4AoiJA6Syd8" rel="noreferrer" target="_blank">University of maiduguri</a>
               </li>
-              <li><i className="fas fa-star"></i><a href="tel:8180012345678">+81 800 123 456 78</a></li>
-              <li><i className="fas fa-star"></i><a href="mailto:Collaxmail@gmail.com">Collaxmail@gmail.com</a></li>
+              <li><i className="fas fa-star"></i><a href="tel:8180012345678">+234 800 123 456 78</a></li>
+              <li><i className="fas fa-star"></i><a href="mailto:Collaxmail@gmail.com">unixmail@gmail.com</a></li>
             </ul>
           </div>
           <div className="tpoffcanvas__input d-none d-sm-block">
