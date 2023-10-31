@@ -13,7 +13,7 @@ const Header = () => {
       <header className="d-none d-lg-block">
         <div
           id="header-sticky"
-          className={`tp-header-area header-transparent pl-165 pr-165 pt-35 
+          className={`tp-header-area header-transparent pl-165 pr-165 pt-35 z-index-1000 
         ${headerSticky ? "header-sticky" : ""}`}
         >
           <div className="container-fluid">
@@ -34,7 +34,7 @@ const Header = () => {
                   </Link>
                 </div>
               </div>
-              <div className="col-xl-7 col-lg-7">
+              <div className="col-xl-7 col-lg-7 d-flex justify-content-center">
                 <div className="tp-main-menu">
                   <nav id="mobile-menu">
                     {/* nav menus start */}

@@ -6,8 +6,6 @@ if (typeof window !== "undefined") {
 }
 import '../styles/index.scss';
 
-
-
 function MyApp({ Component, pageProps }) {
 
   return (

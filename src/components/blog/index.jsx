@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { FooterThree, HeaderSix, Wrapper } from '../../layout';
+import { Footer, Header, Wrapper } from '../../layout';
 import { animationCreate } from '../../utils/utils';
 import Breadcrumb from '../common/breadcrumb/breadcrumb';
 import BlogArea from './blog-area';
@@ -15,10 +15,10 @@ const Blog = () => {
 
   return (
     <Wrapper>
-      <HeaderSix />
+      <Header />
       <Breadcrumb title={'Blog & Article'} />
       <BlogArea/>
-      <FooterThree />
+      <Footer />
     </Wrapper>
   );
 };

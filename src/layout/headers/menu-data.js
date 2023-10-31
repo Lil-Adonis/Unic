@@ -10,16 +10,8 @@ const menu_data = [
     id:2,
     mega_menu:false,
     has_dropdown:true,
-    title:'Portfolio',
-    link:'/portfolio',
-  
-  },
-  {
-    id:3,
-    mega_menu:true,
-    has_dropdown:true,
-    title:'Pages',
-    link:'#',
+    title:'About Us',
+    link:'/about-us',
   
   },
   {

@@ -19,7 +19,7 @@ const CtaTwo = () => {
                 <Link href="/contact">
                   <a className="tp-btn-lg-yellow mr-20">Become a Partner</a>
                 </Link>
-                <Link href="/about-me">
+                <Link href="/about-us">
                   <a className="tp-btn-sky">Press Office</a>
                 </Link>
               </div>

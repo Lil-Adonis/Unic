@@ -38,58 +38,6 @@ const team_data = [
       { link: 'https://www.skype.com/en/', target: '_blank', icon: 'fab fa-skype', name: 'Skype' },
     ],
   },
-  {
-    id: 4,
-    img: '/assets/img/team/team-4.jpg',
-    name: 'Albert Flores',
-    title: 'Founder of (Rirax)',
-    home: true,
-    social_links: [
-      { link: 'http://facebook.com', target: '_blank', icon: 'fab fa-facebook-f', name: 'Facebook' },
-      { link: 'http://twitter.com', target: '_blank', icon: 'fab fa-twitter', name: 'Twitter' },
-      { link: 'https://www.youtube.com/', target: '_blank', icon: 'fab fa-youtube', name: "Youtube" },
-      { link: 'https://www.skype.com/en/', target: '_blank', icon: 'fab fa-skype', name: 'Skype' },
-    ],
-  },
-  {
-    id: 5,
-    img: '/assets/img/team/team-5.jpg',
-    name: 'Jerome Bell',
-    title: 'Web Developer',
-    home: true,
-    social_links: [
-      { link: 'http://facebook.com', target: '_blank', icon: 'fab fa-facebook-f', name: 'Facebook' },
-      { link: 'http://twitter.com', target: '_blank', icon: 'fab fa-twitter', name: 'Twitter' },
-      { link: 'https://www.youtube.com/', target: '_blank', icon: 'fab fa-youtube', name: "Youtube" },
-      { link: 'https://www.skype.com/en/', target: '_blank', icon: 'fab fa-skype', name: 'Skype' },
-    ],
-  },
-  {
-    id: 6,
-    img: '/assets/img/team/team-6.png',
-    name: 'Robert Fox',
-    title: 'Fashion Designer',
-    home: true,
-    social_links: [
-      { link: 'http://facebook.com', target: '_blank', icon: 'fab fa-facebook-f', name: 'Facebook' },
-      { link: 'http://twitter.com', target: '_blank', icon: 'fab fa-twitter', name: 'Twitter' },
-      { link: 'https://www.youtube.com/', target: '_blank', icon: 'fab fa-youtube', name: "Youtube" },
-      { link: 'https://www.skype.com/en/', target: '_blank', icon: 'fab fa-skype', name: 'Skype' },
-    ],
-  },
-  {
-    id: 7,
-    img: '/assets/img/team/team-7.jpg',
-    name: 'Dianne Russell',
-    title: 'UI/UX Designer',
-    home: true,
-    social_links: [
-      { link: 'http://facebook.com', target: '_blank', icon: 'fab fa-facebook-f', name: 'Facebook' },
-      { link: 'http://twitter.com', target: '_blank', icon: 'fab fa-twitter', name: 'Twitter' },
-      { link: 'https://www.youtube.com/', target: '_blank', icon: 'fab fa-youtube', name: "Youtube" },
-      { link: 'https://www.skype.com/en/', target: '_blank', icon: 'fab fa-skype', name: 'Skype' },
-    ],
-  },
   // home 5
   {
     id: 8,
